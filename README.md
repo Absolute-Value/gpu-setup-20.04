@@ -22,4 +22,4 @@ sshとnvidia-smiができるかを確認
 
 ## この後は各自dockerを作るだけ
 20.04のDocker fileのサンプル：
-[jikuya_docker_setup_20.04](http://10.226.47.83:8080/jikuya/jikuya_docker_setup_20.04)
+[docker_setup](https://github.com/Absolute-Value/docker_setup)
